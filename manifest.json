@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+      "description": "Cat Tastic Behavior Pack",
+      "name": "Cat Tastic Behavior Pack",
+      "uuid": "8bf1aa60-ab46-4f8c-a521-37de8f2efb9e",
+      "version": [0, 0, 1]
+    },
+    "modules": [
+      {
+        "description": "Not Used",
+        "uuid": "2078df10-251d-4fe2-ac91-6eaf1854f03e",
+        "version": [0, 0, 1],
+        "type": "data"
+      }
+    ]
+  }
